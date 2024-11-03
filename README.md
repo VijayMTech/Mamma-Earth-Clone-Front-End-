@@ -12,4 +12,5 @@ The project involves the creation of various web pages, including the homepage, 
 5--> Utilize the Live Server extension in Visual Studio Code to run the index.html file.
 6--> Once the Live Server is active, the project will automatically load and display in your default web browser.
 
+![output-onlinegiftools](https://github.com/user-attachments/assets/f8bef4d6-ed8a-465e-bb1f-b6ecda89ea51)
 
